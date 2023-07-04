@@ -1,1 +1,1 @@
-some alogrithms coding by myself.
+Course alogrithm.
